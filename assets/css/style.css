@@ -98,7 +98,7 @@ li {
 
 .card{
     text-align: center;
-    border:6px solid #f21717;
+    border:6px solid #e0c9ef;
     border-radius: 7%;
     z-index: 30;
     gap: 20px;
@@ -106,8 +106,7 @@ li {
 }
 
 .card>img{
-    /* border-radius: 5%; */
-    z-index: 35;
+    border-radius: 5%;
 }
 .card:hover{
     transform: rotate(15deg);
@@ -202,7 +201,6 @@ li {
         width: 60%;
         font-family: 'Times New Roman', Times, serif;
         font-size: 10px;
-        background-color: #5ece45;
     }
     .container-topo {
         background-color: #e0c9ef;
